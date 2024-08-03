@@ -1,0 +1,130 @@
+*{
+    margin: 0%;
+    padding: 0%;
+} 
+
+h1{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 5%;
+    padding-top: 3%;
+    font-weight: bolder;
+}
+h1{
+    position: fixed;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+    font-size: large;
+    font-family: sans-serif;
+    padding-top: 7%;
+    padding-left: 6%;
+    list-style: none;
+}
+ul{
+    position: fixed;
+}
+
+a{
+    text-decoration: none;
+}
+
+.search{
+    display: flex;
+    justify-content: end;
+    font-size: 30px;
+    margin-right: 20px;
+    flex-wrap: wrap;
+    padding-top: 4%;
+}
+fa-bag-shoping{
+    display: flex;
+    justify-content: end;
+   color: white;
+   flex-wrap: wrap;
+   
+ }
+
+
+.poster{
+    background-image: url(https://www.servis.pk/cdn/shop/files/ndure-banner-dimensions.png?v=1721826383);
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+}
+
+.video a{
+    width: 100%;
+}
+
+.poster2 {
+    background-image: url('https://www.servis.pk/cdn/shop/files/b2-3.png?v=1716975065');
+    background-size: cover;
+    background-position: center;  
+    background-repeat: no-repeat; 
+    width: 100%;
+    height: 650px;
+}
+
+.container{
+    width: 100%;
+    
+}
+.container p{
+    text-align: center;
+    font-size: larger;
+}
+
+.letter p{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+.box{
+    width: 100%;
+    height: 30%;
+    display: flex;
+}
+
+.email{
+    text-align: center;
+}
+.box1{
+ width: 20%;
+ height: 10%;
+ margin-bottom: 20%;
+ padding-left: 5%;
+ padding-top: 10%;
+}
+
+.box2{
+    width: 20%;
+    height: 10%;
+    margin-bottom: 20%;
+    padding-left: 5%;
+    padding-top: 10%;
+   }
+   .box3{
+        width: 20%;
+        height: 10%;
+        margin-bottom: 20%;
+        padding-left: 5%;
+        padding-top: 10%;
+    }
+   
+    .box4{
+        width: 20%;
+        height: 10%;
+        margin-bottom: 20%;
+        padding-left: 5%;
+        padding-top: 10%;
+       }
+    .text{
+       background-color: black;  
+       color: white;
+        
+    }
+       
